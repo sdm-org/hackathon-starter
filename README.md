@@ -27,7 +27,7 @@ if for example you are only interested in **Sign in with Google** authentication
 > — Adrian Le Bas
 
 > [**“Awesome. Simply awesome.”**](https://www.producthunt.com/tech/hackathon-starter#comment-224966)<br>
-> — Steven Rueter
+> — Steven Rueter 
 
 > [**“I'm using it for a year now and many projects, it's an awesome boilerplate and the project is well maintained!”**](https://www.producthunt.com/tech/hackathon-starter#comment-228610)<br>
 > — Kevin Granger
