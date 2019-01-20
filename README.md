@@ -22,7 +22,7 @@ without being too specific. In the worst case you can use this as a learning gui
 if for example you are only interested in **Sign in with Google** authentication and nothing else.
  
 ### Testimonials  
-
+ 
 > [**“Nice! That README alone is already gold!”**](https://www.producthunt.com/tech/hackathon-starter#comment-224732)<br>
 > — Adrian Le Bas
   
