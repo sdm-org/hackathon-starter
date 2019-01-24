@@ -24,7 +24,7 @@ if for example you are only interested in **Sign in with Google** authentication
 ### Testimonials    
  
 > [**“Nice! That README alone is already gold!”**](https://www.producthunt.com/tech/hackathon-starter#comment-224732)<br>
-> — Adrian Le Bas
+> — Adrian Le Bas 
   
 > [**“Awesome. Simply awesome.”**](https://www.producthunt.com/tech/hackathon-starter#comment-224966)<br>
 > — Steven Rueter 
